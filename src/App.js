@@ -50,7 +50,7 @@ class App extends PureComponent {
                         <li>
                             I wanted to try out <a href="https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html" title="create-react-app">create-react-app</a>, kudos to <a href="https://twitter.com/dan_abramov">Dan Abramov</a> and company.
                             I've been a developer working with React for a few years now. Learning React used to be very involved with having to learn <a href="https://facebook.github.io/react/" title="React.js">React</a>, a form of <a href="https://ryanclark.me/getting-started-with-flux/" title="Flux">Flux</a> and <a href="https://webpack.github.io/" title="Webpack">Webpack</a>.
-                            This simple CLI tool takes a major towards involving an entirely new audience to the React community.
+                            This simple CLI tool takes a major step towards involving an entirely new audience to the React community.
                         </li>
                     </ol>
                 </section>
