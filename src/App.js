@@ -21,7 +21,7 @@ class App extends PureComponent {
                     <img src={sexyMan} alt="Sexiest CEOs"/>
 
                     <footer>
-                        <small>(this may not be true)</small>
+                        <small>(this is mostly true)</small>
                     </footer>
                 </section>
 
